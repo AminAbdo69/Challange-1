@@ -221,6 +221,9 @@ header .links {
     animation: fade-in 0.65s ease-in-out;
     width: 100%;
   }
+  header ul li a {
+    background-position: bottom left;
+  }
 }
 
 /* end header  */
